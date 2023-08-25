@@ -14,4 +14,4 @@ matplotlib
 
 ## Objetivo
 
-Tratar das estruturados no formato JSON e realizar uma análise exploratória com o objetivo de gerar insights
+Tratar dados estruturados no formato JSON e realizar uma análise exploratória com o objetivo de gerar insights
